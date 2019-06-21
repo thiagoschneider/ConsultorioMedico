@@ -1,0 +1,60 @@
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.deps.json
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.dll
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.pdb
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Dominio.dll
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Dominio.pdb
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.AssemblyInfo.cs
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.csproj.CopyComplete
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.dll
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.pdb
+C:\Users\Thiago\Desktop\Nova pasta\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.deps.json
+C:\Users\Thiago\Desktop\Nova pasta\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.dll
+C:\Users\Thiago\Desktop\Nova pasta\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.pdb
+C:\Users\Thiago\Desktop\Nova pasta\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Dominio.dll
+C:\Users\Thiago\Desktop\Nova pasta\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Dominio.pdb
+C:\Users\Thiago\Desktop\Nova pasta\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\Nova pasta\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Nova pasta\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Nova pasta\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Nova pasta\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.csproj.CopyComplete
+C:\Users\Thiago\Desktop\Nova pasta\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.dll
+C:\Users\Thiago\Desktop\Nova pasta\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.pdb
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.deps.json
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.dll
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.pdb
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Dominio.dll
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Dominio.pdb
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.csproj.CopyComplete
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.dll
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.pdb
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.deps.json
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.dll
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.pdb
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Dominio.dll
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Dominio.pdb
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.csprojAssemblyReference.cache
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.AssemblyInfoInputs.cache
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.AssemblyInfo.cs
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.csproj.CopyComplete
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.dll
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.pdb
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.deps.json
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.dll
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.pdb
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Dominio.dll
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.Data\bin\Debug\netcoreapp2.2\ConsultorioMedico.Dominio.pdb
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.csproj.CopyComplete
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.dll
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.Data\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.pdb

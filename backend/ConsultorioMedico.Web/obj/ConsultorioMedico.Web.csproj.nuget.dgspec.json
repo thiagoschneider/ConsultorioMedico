@@ -1,0 +1,399 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Web\\ConsultorioMedico.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj",
+        "projectName": "ConsultorioMedico.Dominio",
+        "projectPath": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Infra.CrossCutting.IoC\\ConsultorioMedico.Infra.CrossCutting.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Infra.CrossCutting.IoC\\ConsultorioMedico.Infra.CrossCutting.IoC.csproj",
+        "projectName": "ConsultorioMedico.Infra.CrossCutting.IoC",
+        "projectPath": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Infra.CrossCutting.IoC\\ConsultorioMedico.Infra.CrossCutting.IoC.csproj",
+        "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Infra.CrossCutting.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj"
+              },
+              "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Servico\\ConsultorioMedico.Servico.csproj": {
+                "projectPath": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Servico\\ConsultorioMedico.Servico.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Infra.Data\\ConsultorioMedico.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Infra.Data\\ConsultorioMedico.Infra.Data.csproj",
+        "projectName": "ConsultorioMedico.Infra.Data",
+        "projectPath": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Infra.Data\\ConsultorioMedico.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Servico\\ConsultorioMedico.Servico.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Servico\\ConsultorioMedico.Servico.csproj",
+        "projectName": "ConsultorioMedico.Servico",
+        "projectPath": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Servico\\ConsultorioMedico.Servico.csproj",
+        "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Servico\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj"
+              },
+              "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Infra.Data\\ConsultorioMedico.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Infra.Data\\ConsultorioMedico.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Web\\ConsultorioMedico.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Web\\ConsultorioMedico.Web.csproj",
+        "projectName": "ConsultorioMedico.Web",
+        "projectPath": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Web\\ConsultorioMedico.Web.csproj",
+        "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Dominio\\ConsultorioMedico.Dominio.csproj"
+              },
+              "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Infra.CrossCutting.IoC\\ConsultorioMedico.Infra.CrossCutting.IoC.csproj": {
+                "projectPath": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Infra.CrossCutting.IoC\\ConsultorioMedico.Infra.CrossCutting.IoC.csproj"
+              },
+              "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Servico\\ConsultorioMedico.Servico.csproj": {
+                "projectPath": "C:\\Users\\Thiago\\Desktop\\LABORATORIO\\VersaoJean\\ConsultorioMedico\\ConsultorioMedico.Servico\\ConsultorioMedico.Servico.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Primitives": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

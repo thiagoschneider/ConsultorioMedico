@@ -1,0 +1,13 @@
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Dominio.Testes\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Dominio.Testes\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Dominio.Testes\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Dominio.Testes\bin\Debug\netcoreapp2.1\ConsultorioMedico.Dominio.Testes.deps.json
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Dominio.Testes\bin\Debug\netcoreapp2.1\ConsultorioMedico.Dominio.Testes.runtimeconfig.json
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Dominio.Testes\bin\Debug\netcoreapp2.1\ConsultorioMedico.Dominio.Testes.runtimeconfig.dev.json
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Dominio.Testes\bin\Debug\netcoreapp2.1\ConsultorioMedico.Dominio.Testes.dll
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Dominio.Testes\bin\Debug\netcoreapp2.1\ConsultorioMedico.Dominio.Testes.pdb
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Dominio.Testes\obj\Debug\netcoreapp2.1\ConsultorioMedico.Dominio.Testes.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Dominio.Testes\obj\Debug\netcoreapp2.1\ConsultorioMedico.Dominio.Testes.AssemblyInfoInputs.cache
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Dominio.Testes\obj\Debug\netcoreapp2.1\ConsultorioMedico.Dominio.Testes.AssemblyInfo.cs
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Dominio.Testes\obj\Debug\netcoreapp2.1\ConsultorioMedico.Dominio.Testes.dll
+C:\Users\Thiago\Downloads\ConsultorioMedico\ConsultorioMedico.Dominio.Testes\obj\Debug\netcoreapp2.1\ConsultorioMedico.Dominio.Testes.pdb

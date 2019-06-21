@@ -1,0 +1,28 @@
+
+<div class="container">
+        <div class="d-flex justify-content-end">
+            <button class="btn btn-primary" (click)="open(content)">Novo</button>
+        </div>
+        <h2>Consultas</h2>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Data Hora Inicio</th>
+                    <th>Data Hora Final</th>
+                    <th>ações</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let consulta of consultas">
+                    <td>{{consulta.paciente.nome}}</td>
+                    <td>{{consulta.dataHoraInicioString}}</td>
+                    <td>{{consulta.dataHoraFinalString}}</td>
+                    <td><button type="button" class="btn btn-success" (click)="open(content,true,$event)"
+                            [attr.data-id]="consulta.consultaId">Editar</button>&nbsp; <button
+                            type="button" class="btn btn-danger" (click)="openRemoverConsulta($event)"
+                            [attr.data-id]="consulta.consultaId">Excluir</button> </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>

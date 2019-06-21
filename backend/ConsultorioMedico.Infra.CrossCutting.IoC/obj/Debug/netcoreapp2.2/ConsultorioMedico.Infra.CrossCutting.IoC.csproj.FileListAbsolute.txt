@@ -1,0 +1,48 @@
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.deps.json
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.dll
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.pdb
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Dominio.dll
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.dll
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Servico.dll
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Dominio.pdb
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Servico.pdb
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.pdb
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.dll
+C:\Users\Thiago\Desktop\LABORATORIO\Versao1\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.pdb
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.deps.json
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.dll
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.pdb
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Dominio.dll
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.dll
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Servico.dll
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Dominio.pdb
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Servico.pdb
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.pdb
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.AssemblyInfo.cs
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.csproj.CopyComplete
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.dll
+D:\Downloads\ConsultorioMedico (9)\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.pdb
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.deps.json
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.dll
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.pdb
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Dominio.dll
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.dll
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Servico.dll
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Dominio.pdb
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Servico.pdb
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\ConsultorioMedico.Infra.Data.pdb
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.dll
+C:\Users\Thiago\Desktop\LABORATORIO\VersaoJean\ConsultorioMedico\ConsultorioMedico.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\ConsultorioMedico.Infra.CrossCutting.IoC.pdb

@@ -1,0 +1,40 @@
+
+<!-- <ng-template #content let-modal> -->
+<form novalidate [formGroup]="pacientesForm" (ngSubmit)="cadastrar()">
+    <input type="hidden" id="idPacienteAtual" formControlName="PacienteId">
+  <!-- <input type="hidden" id="idPacienteAtual" [value]="paciente?.pacienteId" formControlName="PacienteId"> -->
+  <div class="modal-header">
+    <h4 class="modal-title" id="modal-basic-title">Cadastro de Paciente</h4>
+    <button type="button" class="close" aria-label="Close" (click)="fecharModal()">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+  <div class="modal-body">
+
+    <div class="form-group">
+      <label for="Nome">Nome</label>
+      <div class="input-group">
+          <input id="nome" formControlName="Nome" class="form-control" placeholder="nome">
+        <!-- <input id="nome" formControlName="Nome"  [value]="paciente?.nome" class="form-control" placeholder="nome"> -->
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="dateOfBirth">Data Nascimento</label>
+      <div class="input-group">
+        <!-- <input id="dateOfBirth" [value]="paciente?.dataNascimentoString"  formControlName="DataNascimentoString"
+          class="form-control" placeholder="yyyy-mm-dd" name="dp" ngbDatepicker #dp="ngbDatepicker"> -->
+          <input id="dateOfBirth" formControlName="DataNascimentoString"
+          class="form-control" placeholder="yyyy-mm-dd" name="dp" ngbDatepicker #dp="ngbDatepicker">
+        <div class="input-group-append">
+          <button class="btn btn-outline-secondary calendar" (click)="dp.toggle()" type="button"></button>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <div class="modal-footer">
+    <button type="button" class="btn btn-outline-dark" (click)="fecharModal()">Cancelar</button>
+    <button type="submit" [disabled]="!pacientesForm.valid" class="btn btn-outline-dark">Salvar</button>
+  </div>
+</form>
+<!-- </ng-template> -->

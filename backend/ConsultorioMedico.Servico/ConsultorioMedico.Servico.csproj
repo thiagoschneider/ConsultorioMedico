@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ConsultorioMedico.Dominio\ConsultorioMedico.Dominio.csproj" />
+    <ProjectReference Include="..\ConsultorioMedico.Infra.Data\ConsultorioMedico.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,59 @@
+<form novalidate [formGroup]="consultasForm" (ngSubmit)="cadastrar()">
+    <input type="hidden" id="idConsultaAtual" formControlName="ConsultaId">
+
+    <div class="modal-header">
+        <h4 class="modal-title" id="modal-basic-title">Cadastro de Consultas</h4>
+        <button type="button" class="close" aria-label="Close" (click)="fecharModal()">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+    <div class="modal-body">
+
+        <div class="form-group">
+            <label for="paciente">Paciente</label>
+            <div class="input-group">
+                
+                <select formControlName="PacienteId" class="form-control">
+                    <option value="">Selecionar</option>
+                    <option [ngValue]="paciente.pacienteId" *ngFor="let paciente of pacientes">{{paciente.nome}}
+                    </option>
+                </select>
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            <label for="dateOfBirth">Data da Consulta</label>
+            <div class="input-group">
+
+                <input id="dateOfBirth" formControlName="Data" class="form-control" placeholder="yyyy-mm-dd" name="dp"
+                    ngbDatepicker #dp="ngbDatepicker">
+                <div class="input-group-append">
+                    <button class="btn btn-outline-secondary calendar" (click)="dp.toggle()" type="button"></button>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+           
+            <div class="input-group">
+                <label class="hora">Hora Início</label>
+                <ngb-timepicker formControlName="HoraInicio"></ngb-timepicker>
+                <label class="hora">Fim</label>
+                <ngb-timepicker formControlName="HoraFinal"></ngb-timepicker>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="horaFinal">Observações</label>
+            <div class="input-group">
+               <textarea class="form-control" style="resize: none" formControlName="Observacoes" rows="3"></textarea>
+            </div>
+        </div>
+
+    </div>
+    <div class="modal-footer">
+        <button type="button" class="btn btn-outline-dark" (click)="fecharModal()">Cancelar</button>
+        <button type="submit" [disabled]="!consultasForm.valid" class="btn btn-outline-dark">Salvar</button>
+    </div>
+</form>
